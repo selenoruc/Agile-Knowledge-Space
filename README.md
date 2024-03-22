@@ -8,9 +8,9 @@ $${\color{lightblue}This \space repository \space is \space not \space an \space
 
 <br>Repository information is prepared by the most popular websites and sources below:
 
-[🌍 Agile Manifesto](https://agilemanifesto.org/) - [🌍 ACM Agile](https://www.acmagile.com/)
+**🌍 Websites:** [Agile Manifesto](https://agilemanifesto.org/) - [ACM Agile](https://www.acmagile.com/)
 
-[📚 How to be Agile](https://www.amazon.com/How-Agile-Brave-organizational-practices/dp/B0971GZQVV) - [📚 Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+**📚 Books:** [How to be Agile](https://www.amazon.com/How-Agile-Brave-organizational-practices/dp/B0971GZQVV) - [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 
 ## Table of Contents
 
@@ -25,38 +25,29 @@ Agile is a set of principles and practices that promote collaboration, flexibili
 ## Topics
 All the repository topics are listed below with their current status. ⏹: To-Do | 🔜: In Progress | ✅: Done | ❎: Not In Scope Yet
 
-### Agile Methodologies
-- [Scrum](Scrum.md) - 🔜
-- [Kanban](Kanban.md) - ⏹
-- [Extreme Programming (XP)](XP.md) - ❎
+### [1 - Agile Methodologies](./1_Agile_Methodologies/README.md) - 🔜
+- [Scrum](./1_Agile_Methodologies/Scrum/README.md) - 🔜
+  - [Scrum Roles](./1_Agile_Methodologies/Scrum/Scrum_Roles.md) - ⏹
+  - [Scrum Rituels](./1_Agile_Methodologies/Scrum/Scrum_Rituels.md) - ⏹
+- [Kanban](./1_Agile_Methodologies/Kanban/README.md) - ⏹
 
-### Agile Principles
-- [The Agile Manifesto](Agile_Manifesto.md) - 🔜
-- [Agile Principles](Agile_Principles.md) - ⏹
+### [2 - Agile Principles](./2_Agile_Principles)
+- [The Agile Manifesto](./2_Agile_Principles/The_Agile_Manifesto.md) - 🔜
+- [Agile Principles](./2_Agile_Principles/Agile_Principles.md) - ⏹
 
-### Agile Practices
-- [User Stories](User_Stories.md) - ⏹
-- [Sprint Planning](Sprint_Planning.md) - ⏹
-- [Daily Standup Meetings](Daily_Standup.md) - ⏹
+### [3 - Agile Framework Tools](./3_Agile_Framework_Tools)
+- [Jira](./3_Agile_Framework_Tools/Jira.md) - ⏹
+- [Trello](./3_Agile_Framework_Tools/Trello.md) - ⏹
+- [Miro](./3_Agile_Framework_Tools/Miro.md) - ⏹
+- [Scrum Poker Websites](./3_Agile_Framework_Tools/Scrum_Poker_Websites.md) - ⏹
 
-### Agile Tools
-- [JIRA](JIRA.md) - ⏹
-- [Trello](Trello.md) - ⏹
-- [Miro](Miro.md) - ⏹
+### [4 - Agile Learning Resources](./4_Agile_Learning_Resources/README.md) - ⏹
 
-### Agile Resources
-- [Books](Agile_Books.md) - ⏹
-- [Online Courses](Agile_Courses.md) - ⏹
-- [Blogs](Agile_Blogs.md) - ⏹
+### [5 - Case Studies](./5_Case_Studies/README.md) - ⏹
 
-### Case Studies
-- [Agile in Software Development](Agile_Case_Study.md) - ⏹
-- [Agile in Project Management](Agile_PM_Case_Study.md) - ⏹
-
-### Additional Information
-- [Glossary of Agile Terms](Agile_Glossary.md) - ⏹
-- [FAQs](Agile_FAQ.md) - ⏹
-
+### [6 - Additional Information](./6_Additional_Information)
+- [Glossary of Agile Terms](./6_Additional_Information/Glossary_of_Agile_Terms.md) - ⏹
+- [FAQs](./6_Additional_Information/FAQs.md) - ⏹
 
 ## Contributing
 
