@@ -8,7 +8,7 @@ $${\color{lightblue}This \space repository \space is \space not \space an \space
 
 <br>Repository information is prepared by the most popular websites and sources below:
 
-**🌍 Websites:** [Agile Manifesto](https://agilemanifesto.org/) - [ACM Agile](https://www.acmagile.com/)
+**🌍 Websites:** [Agile Manifesto](https://agilemanifesto.org/) - [Scrum.org](https://www.scrum.org/) - [ACM Agile](https://www.acmagile.com/)
 
 **📚 Books:** [How to be Agile](https://www.amazon.com/How-Agile-Brave-organizational-practices/dp/B0971GZQVV) - [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 
@@ -25,15 +25,13 @@ Agile is a set of principles and practices that promote collaboration, flexibili
 ## Topics
 All the repository topics are listed below with their current status. ⏹: To-Do | 🔜: In Progress | ✅: Done | ❎: Not In Scope Yet
 
-### [1 - Agile Methodologies](./1_Agile_Methodologies/README.md) - 🔜
+### [1 - Agile Methodologies](./1_Agile_Methodologies/README.md) - ✅
 - [Scrum](./1_Agile_Methodologies/Scrum/README.md) - 🔜
   - [Scrum Roles](./1_Agile_Methodologies/Scrum/Scrum_Roles.md) - ⏹
   - [Scrum Rituels](./1_Agile_Methodologies/Scrum/Scrum_Rituels.md) - ⏹
 - [Kanban](./1_Agile_Methodologies/Kanban/README.md) - ⏹
 
-### [2 - Agile Principles](./2_Agile_Principles)
-- [The Agile Manifesto](./2_Agile_Principles/The_Agile_Manifesto.md) - 🔜
-- [Agile Principles](./2_Agile_Principles/Agile_Principles.md) - ⏹
+### [2 - Agile Manifesto](./2_Agile_Manifesto/README.md) - ✅
 
 ### [3 - Agile Framework Tools](./3_Agile_Framework_Tools)
 - [Jira](./3_Agile_Framework_Tools/Jira.md) - ⏹
@@ -41,9 +39,9 @@ All the repository topics are listed below with their current status. ⏹: To-Do
 - [Miro](./3_Agile_Framework_Tools/Miro.md) - ⏹
 - [Scrum Poker Websites](./3_Agile_Framework_Tools/Scrum_Poker_Websites.md) - ⏹
 
-### [4 - Agile Learning Resources](./4_Agile_Learning_Resources/README.md) - ⏹
+### [4 - Agile Learning Resources](./4_Agile_Learning_Resources/README.md) - ✅
 
-### [5 - Case Studies](./5_Case_Studies/README.md) - ⏹
+### [5 - Case Studies](./5_Case_Studies/README.md) - ✅
 
 ### [6 - Additional Information](./6_Additional_Information)
 - [Glossary of Agile Terms](./6_Additional_Information/Glossary_of_Agile_Terms.md) - ⏹
