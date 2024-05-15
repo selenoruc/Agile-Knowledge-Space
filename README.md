@@ -23,7 +23,7 @@ $${\color{lightblue}This \space repository \space is \space not \space an \space
 Agile is a set of principles and practices that promote collaboration, flexibility, and customer-centricity in project management and software development. It encompasses various methodologies, including Scrum, Kanban, and Extreme Programming (XP), as well as a set of core values and principles outlined in the Agile Manifesto.
 
 ## Topics
-All the repository topics are listed below with their current status. ⏹: To-Do | 🔜: In Progress | ✅: Done | ❎: Not In Scope Yet
+All the repository topics are listed below with their current status. ⏹: To-Do | 🔜: In Progress | ✅: Done
 
 ### [1 - Agile Methodologies](./1_Agile_Methodologies/README.md) - ✅
 - [Scrum](./1_Agile_Methodologies/Scrum/README.md) - ✅
