@@ -26,9 +26,9 @@ Agile is a set of principles and practices that promote collaboration, flexibili
 All the repository topics are listed below with their current status. ⏹: To-Do | 🔜: In Progress | ✅: Done | ❎: Not In Scope Yet
 
 ### [1 - Agile Methodologies](./1_Agile_Methodologies/README.md) - ✅
-- [Scrum](./1_Agile_Methodologies/Scrum/README.md) - 🔜
+- [Scrum](./1_Agile_Methodologies/Scrum/README.md) - ✅
   - [Scrum Roles](./1_Agile_Methodologies/Scrum/Scrum_Roles.md) - ⏹
-  - [Scrum Rituels](./1_Agile_Methodologies/Scrum/Scrum_Rituels.md) - ⏹
+  - [Scrum Rituels](./1_Agile_Methodologies/Scrum/Scrum_Practices.md) - 🔜
 - [Kanban](./1_Agile_Methodologies/Kanban/README.md) - ⏹
 
 ### [2 - Agile Manifesto](./2_Agile_Manifesto/README.md) - ✅
