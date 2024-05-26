@@ -28,7 +28,7 @@ All the repository topics are listed below with their current status. ⏹: To-Do
 ### [1 - Agile Methodologies](./1_Agile_Methodologies/README.md) - ✅
 - [Scrum](./1_Agile_Methodologies/Scrum/README.md) - ✅
   - [Scrum Roles](./1_Agile_Methodologies/Scrum/Scrum_Roles.md) - ⏹
-  - [Scrum Rituels](./1_Agile_Methodologies/Scrum/Scrum_Practices.md) - 🔜
+  - [Scrum Practices](./1_Agile_Methodologies/Scrum/Scrum_Practices.md) - ✅
 - [Kanban](./1_Agile_Methodologies/Kanban/README.md) - ⏹
 
 ### [2 - Agile Manifesto](./2_Agile_Manifesto/README.md) - ✅
