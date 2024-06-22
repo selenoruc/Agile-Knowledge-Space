@@ -29,7 +29,7 @@ All the repository topics are listed below with their current status. ⏹: To-Do
 - [Scrum](./1_Agile_Methodologies/Scrum/README.md) - ✅
   - [Scrum Practices](./1_Agile_Methodologies/Scrum/Scrum_Practices.md) - ✅
   - [Scrum Roles](./1_Agile_Methodologies/Scrum/Scrum_Roles.md) - ✅
-- [Kanban](./1_Agile_Methodologies/Kanban/README.md) - ⏹
+- [Kanban](./1_Agile_Methodologies/Kanban/README.md) - ✅
 
 ### [2 - Agile Manifesto](./2_Agile_Manifesto/README.md) - ✅
 
@@ -44,8 +44,8 @@ All the repository topics are listed below with their current status. ⏹: To-Do
 ### [5 - Case Studies](./5_Case_Studies/README.md) - ✅
 
 ### [6 - Additional Information](./6_Additional_Information)
-- [Glossary of Agile Terms](./6_Additional_Information/Glossary_of_Agile_Terms.md) - ⏹
-- [FAQs](./6_Additional_Information/FAQs.md) - ⏹
+- [Glossary of Agile Terms](./6_Additional_Information/Glossary_of_Agile_Terms.md) - ✅
+- [FAQs](./6_Additional_Information/FAQs.md) - ✅
 
 ## Contributing
 
