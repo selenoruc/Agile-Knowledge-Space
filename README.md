@@ -30,14 +30,17 @@ All the repository topics are listed below with their current status. ⏹: To-Do
   - [Scrum Practices](./1_Agile_Methodologies/Scrum/Scrum_Practices.md) - ✅
   - [Scrum Roles](./1_Agile_Methodologies/Scrum/Scrum_Roles.md) - ✅
 - [Kanban](./1_Agile_Methodologies/Kanban/README.md) - ✅
+- [Methodology Desicion](./1_Agile_Methodologies/Methodology_Desicion.md) - ⏹
+- [Organizational Transformation](./1_Agile_Methodologies/Organizational_Transformation.md) - ⏹
+- [Increase Efficiency](./1_Agile_Methodologies/Increase_Efficiency.md) - ⏹
+- [Performance Metrics](./1_Agile_Methodologies/Performance_Metrics.md) - ⏹
 
 ### [2 - Agile Manifesto](./2_Agile_Manifesto/README.md) - ✅
 
 ### [3 - Agile Framework Tools](./3_Agile_Framework_Tools)
-- [Jira](./3_Agile_Framework_Tools/Jira.md) - ⏹
-- [Trello](./3_Agile_Framework_Tools/Trello.md) - ⏹
-- [Miro](./3_Agile_Framework_Tools/Miro.md) - ⏹
-- [Scrum Poker Websites](./3_Agile_Framework_Tools/Scrum_Poker_Websites.md) - ⏹
+- [Jira](./3_Agile_Framework_Tools/Jira.md) - ✅
+- [Miro](./3_Agile_Framework_Tools/Miro.md) - ✅
+- [Scrum Poker Websites](./3_Agile_Framework_Tools/Scrum_Poker_Websites.md) - ✅
 
 ### [4 - Agile Learning Resources](./4_Agile_Learning_Resources/README.md) - ✅
 
