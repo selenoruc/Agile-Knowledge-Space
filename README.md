@@ -1,4 +1,4 @@
-# Agile Knowledge Space
+# 🌌 Agile Knowledge Space
 
 Welcome to the Agile Knowledge Space!
 
@@ -12,17 +12,11 @@ $${\color{lightblue}This \space repository \space is \space not \space an \space
 
 **📚 Books:** [How to be Agile](https://www.amazon.com/How-Agile-Brave-organizational-practices/dp/B0971GZQVV) - [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 
-## Table of Contents
-
-- [About Agile](#about-agile)
-- [Topics](#topics)
-- [Contributing](#contributing)
-
-## About Agile
+## ℹ About Agile
 
 Agile is a set of principles and practices that promote collaboration, flexibility, and customer-centricity in project management and software development. It encompasses various methodologies, including Scrum, Kanban, and Extreme Programming (XP), as well as a set of core values and principles outlined in the Agile Manifesto.
 
-## Topics
+## 📃 Topics
 All the repository topics are listed below with their current status. ⏹: To-Do | 🔜: In Progress | ✅: Done
 
 ### [1 - Agile Methodologies](./1_Agile_Methodologies/README.md) - ✅
@@ -50,7 +44,7 @@ All the repository topics are listed below with their current status. ⏹: To-Do
 - [Glossary of Agile Terms](./6_Additional_Information/Glossary_of_Agile_Terms.md) - ✅
 - [FAQs](./6_Additional_Information/FAQs.md) - ✅
 
-## Contributing
+## ❤ Contributing
 
 We welcome contributions from the community to enhance and expand the Agile Wiki. If you have valuable insights, information, or resources related to Agile that you'd like to share, please consider contributing:
 
@@ -60,4 +54,4 @@ We welcome contributions from the community to enhance and expand the Agile Wiki
 4. Commit your changes and push to your forked repository.
 5. Create a pull request (PR) to merge your changes into this repository.
 
-Thank you for visiting the Agile Space! We hope you find this resource valuable in your Agile journey. If you have any questions or suggestions, please don't hesitate to reach out.
+Thank you for visiting the Agile Knowledge Space! We hope you find this resource valuable in your Agile journey. If you have any questions or suggestions, please don't hesitate to reach out.
